@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fitfuel/static/css/main.e6c13ad2.css",
+    "main.js": "/fitfuel/static/js/main.690f505c.js",
+    "index.html": "/fitfuel/index.html",
+    "main.e6c13ad2.css.map": "/fitfuel/static/css/main.e6c13ad2.css.map",
+    "main.690f505c.js.map": "/fitfuel/static/js/main.690f505c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.690f505c.js"
+  ]
+}
