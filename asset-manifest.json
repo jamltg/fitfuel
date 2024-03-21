@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/fitfuel/static/css/main.9d7003a7.css",
-    "main.js": "/fitfuel/static/js/main.480ed3b1.js",
+    "main.css": "/fitfuel/static/css/main.8df370df.css",
+    "main.js": "/fitfuel/static/js/main.ab5aecb8.js",
     "static/media/ON_chocolate.jpg": "/fitfuel/static/media/ON_chocolate.5bfd29b67901fe70793f.jpg",
     "static/media/weightlifting.jpg": "/fitfuel/static/media/weightlifting.12e3d2006790b736864d.jpg",
     "static/media/doubleblack.png": "/fitfuel/static/media/doubleblack.39eb69a2fcf571ed041d.png",
@@ -10,11 +10,11 @@
     "static/media/syntha6_chocolate.jpg": "/fitfuel/static/media/syntha6_chocolate.8f0fa15e6a8cefd517fe.jpg",
     "static/media/muscletech_chocolate.jpg": "/fitfuel/static/media/muscletech_chocolate.2a8bc06106ea351b39ef.jpg",
     "index.html": "/fitfuel/index.html",
-    "main.9d7003a7.css.map": "/fitfuel/static/css/main.9d7003a7.css.map",
-    "main.480ed3b1.js.map": "/fitfuel/static/js/main.480ed3b1.js.map"
+    "main.8df370df.css.map": "/fitfuel/static/css/main.8df370df.css.map",
+    "main.ab5aecb8.js.map": "/fitfuel/static/js/main.ab5aecb8.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d7003a7.css",
-    "static/js/main.480ed3b1.js"
+    "static/css/main.8df370df.css",
+    "static/js/main.ab5aecb8.js"
   ]
 }
