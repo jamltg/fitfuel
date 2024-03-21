@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "title":"Optimum Nutrition Gold Standard Whey - 5lbs",
+        "price":40,
+        "imagePath": "images/ON_chocolate.jpg"
+    },
+    {
+        "id":2,
+        "title":"Johnnie Walker - Red Label",
+        "price":20,
+        "imagePath": "images/redlabel.jpg"
+    },
+    {
+        "id":3,
+        "title":"Johnnie Walker - Double Black Label",
+        "price":30,
+        "imagePath": "images/doubleblack.png"
+    },
+    {
+        "id":4,
+        "title":"Johnnie Walker - Red Label",
+        "price":20,
+        "imagePath": "images/redlabel.jpg"
+    },
+    {
+        "id":5,
+        "title":"Johnnie Walker - Red Label",
+        "price":20,
+        "imagePath": "images/redlabel.jpg"
+    },
+    {
+        "id":6,
+        "title":"Johnnie Walker - Red Label",
+        "price":20,
+        "imagePath": "images/redlabel.jpg"
+    },
+    {
+        "id":7,
+        "title":"Johnnie Walker - Red Label",
+        "price":20,
+        "imagePath": "images/redlabel.jpg"
+    }
+]
