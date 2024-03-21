@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fitfuel/static/css/main.8df370df.css",
-    "main.js": "/fitfuel/static/js/main.031abec9.js",
+    "main.js": "/fitfuel/static/js/main.158f5a74.js",
     "static/media/ON_chocolate.jpg": "/fitfuel/static/media/ON_chocolate.5bfd29b67901fe70793f.jpg",
     "static/media/weightlifting.jpg": "/fitfuel/static/media/weightlifting.12e3d2006790b736864d.jpg",
     "static/media/doubleblack.png": "/fitfuel/static/media/doubleblack.39eb69a2fcf571ed041d.png",
@@ -13,16 +13,20 @@
     "static/media/insanelabz_creatine.jpg": "/fitfuel/static/media/insanelabz_creatine.d4dc51cfdc0242be2354.jpg",
     "static/media/syntha6_chocolate.jpg": "/fitfuel/static/media/syntha6_chocolate.8f0fa15e6a8cefd517fe.jpg",
     "static/media/mutant_triplechocolate.jpg": "/fitfuel/static/media/mutant_triplechocolate.58b933bfddd2cad073ca.jpg",
+    "static/media/musclepharm_chocolatemilk.jpg": "/fitfuel/static/media/musclepharm_chocolatemilk.bafb4b69f3c24ed7c30e.jpg",
     "static/media/superior14_milkchocolate.jpg": "/fitfuel/static/media/superior14_milkchocolate.9669cc71f9fe145208c6.jpg",
     "static/media/muscletech_chocolate.jpg": "/fitfuel/static/media/muscletech_chocolate.2a8bc06106ea351b39ef.jpg",
+    "static/media/ON_isolate.jpg": "/fitfuel/static/media/ON_isolate.c7eed796c403264de867.jpg",
     "static/media/ON_creatine.jpg": "/fitfuel/static/media/ON_creatine.270b0a11703f4ee6c086.jpg",
+    "static/media/ON_amino_320tablets.jpg": "/fitfuel/static/media/ON_amino_320tablets.9b546a3b1b7bb0f63fd0.jpg",
     "static/media/rule1_creatine_75.jpg": "/fitfuel/static/media/rule1_creatine_75.afb53f9eaebe132d300a.jpg",
+    "static/media/rule1_bcaa60.jpg": "/fitfuel/static/media/rule1_bcaa60.e26edfdd3354f33e6b52.jpg",
     "index.html": "/fitfuel/index.html",
     "main.8df370df.css.map": "/fitfuel/static/css/main.8df370df.css.map",
-    "main.031abec9.js.map": "/fitfuel/static/js/main.031abec9.js.map"
+    "main.158f5a74.js.map": "/fitfuel/static/js/main.158f5a74.js.map"
   },
   "entrypoints": [
     "static/css/main.8df370df.css",
-    "static/js/main.031abec9.js"
+    "static/js/main.158f5a74.js"
   ]
 }
