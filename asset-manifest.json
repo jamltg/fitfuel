@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/fitfuel/static/css/main.9fe0784b.css",
-    "main.js": "/fitfuel/static/js/main.0ffc591c.js",
+    "main.css": "/fitfuel/static/css/main.f2fbfa93.css",
+    "main.js": "/fitfuel/static/js/main.bbbe1271.js",
     "static/media/ON_chocolate.jpg": "/fitfuel/static/media/ON_chocolate.5bfd29b67901fe70793f.jpg",
     "static/media/weightlifting.jpg": "/fitfuel/static/media/weightlifting.12e3d2006790b736864d.jpg",
     "static/media/weightlifting2.jpg": "/fitfuel/static/media/weightlifting2.e89bb01c343195aa8b79.jpg",
@@ -23,11 +23,11 @@
     "static/media/rule1_creatine_75.jpg": "/fitfuel/static/media/rule1_creatine_75.afb53f9eaebe132d300a.jpg",
     "static/media/rule1_bcaa60.jpg": "/fitfuel/static/media/rule1_bcaa60.e26edfdd3354f33e6b52.jpg",
     "index.html": "/fitfuel/index.html",
-    "main.9fe0784b.css.map": "/fitfuel/static/css/main.9fe0784b.css.map",
-    "main.0ffc591c.js.map": "/fitfuel/static/js/main.0ffc591c.js.map"
+    "main.f2fbfa93.css.map": "/fitfuel/static/css/main.f2fbfa93.css.map",
+    "main.bbbe1271.js.map": "/fitfuel/static/js/main.bbbe1271.js.map"
   },
   "entrypoints": [
-    "static/css/main.9fe0784b.css",
-    "static/js/main.0ffc591c.js"
+    "static/css/main.f2fbfa93.css",
+    "static/js/main.bbbe1271.js"
   ]
 }
