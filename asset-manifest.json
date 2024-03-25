@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fitfuel/static/css/main.d43a6809.css",
-    "main.js": "/fitfuel/static/js/main.74718211.js",
+    "main.js": "/fitfuel/static/js/main.3bca6507.js",
     "static/media/ON_chocolate.jpg": "/fitfuel/static/media/ON_chocolate.5bfd29b67901fe70793f.jpg",
     "static/media/weightlifting.jpg": "/fitfuel/static/media/weightlifting.12e3d2006790b736864d.jpg",
     "static/media/weightlifting2.jpg": "/fitfuel/static/media/weightlifting2.e89bb01c343195aa8b79.jpg",
@@ -24,10 +24,10 @@
     "static/media/rule1_bcaa60.jpg": "/fitfuel/static/media/rule1_bcaa60.e26edfdd3354f33e6b52.jpg",
     "index.html": "/fitfuel/index.html",
     "main.d43a6809.css.map": "/fitfuel/static/css/main.d43a6809.css.map",
-    "main.74718211.js.map": "/fitfuel/static/js/main.74718211.js.map"
+    "main.3bca6507.js.map": "/fitfuel/static/js/main.3bca6507.js.map"
   },
   "entrypoints": [
     "static/css/main.d43a6809.css",
-    "static/js/main.74718211.js"
+    "static/js/main.3bca6507.js"
   ]
 }
